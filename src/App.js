@@ -7,7 +7,12 @@ function App() {
             <article>
                 <h2>People</h2>
                 <ul>
-                    <li>Yearn vaults</li>
+                    <li><a href={"https://beta.yearn.finance"} target={"_blank"}
+                           rel="noopener noreferrer">Yearn new beta site</a></li>
+                    <li><a href={"https://yearn.finance"} target={"_blank"}
+                           rel="noopener noreferrer">Yearn vaults current site for a bit longer</a></li>
+                    <li><a href={"https://yearn.fi"} target={"_blank"}
+                           rel="noopener noreferrer">The other UI for Yearn (unofficial but good)</a></li>
                 </ul>
             </article>
             <article>
